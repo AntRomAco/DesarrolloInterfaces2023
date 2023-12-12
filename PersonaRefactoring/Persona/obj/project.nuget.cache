@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "QE25AYkrXAm9YdDvXt86U7SRGr7XWqvcnS336mZ2kx/ZaSJY77F9tcc31OLav3RH3wqlOSzpW0czRxrm7BlAmA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\anton\\OneDrive\\Documentos\\2DAM\\Interfaces\\Persona\\Persona.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\anton\\.nuget\\packages\\nunit\\4.0.1\\nunit.4.0.1.nupkg.sha512",
+    "C:\\Users\\anton\\.nuget\\packages\\nunit.analyzers\\3.10.0\\nunit.analyzers.3.10.0.nupkg.sha512",
+    "C:\\Users\\anton\\.nuget\\packages\\nunit3testadapter\\4.1.0\\nunit3testadapter.4.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
